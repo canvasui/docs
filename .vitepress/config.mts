@@ -49,7 +49,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE" target="_blank">Anti 996 License</a>.',
-      copyright: 'Copyright © 2021-present <a href="https://github.com/lzlme" target="_blank">Zhilin Liu</a>'
+      copyright: 'Copyright © 2021-present <a href="https://github.com/devlzl" target="_blank">Zhilin Liu</a>'
     }
   }
 })
